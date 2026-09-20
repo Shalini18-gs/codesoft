@@ -95,4 +95,4 @@ pandas | numpy | matplotlib | seaborn | scikit-learn | joblib
 
 **Shalini G S**  
 GitHub : https://github.com/Shalini18-gs 
-Internship : CodSoft DS Internship | June Batch C5 ID:BY26RY204383
+Internship : CodSoft DS Internship 
